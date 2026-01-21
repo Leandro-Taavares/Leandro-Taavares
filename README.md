@@ -1,42 +1,84 @@
 ## Leandro Tavares
 
-Olá! Sou Leandro Tavares, um apaixonado por desenvolvimento web que está embarcando em uma jornada emocionante neste vasto mundo da tecnologia. Com mais de um ano de dedicação intensa e mais de 400 horas de cursos, projetos e freelancers efetuados, sou entusiasta em aplicar meu conhecimento e expandir minhas habilidades em projetos desafiadores.
+👨‍💻 **Desenvolvedor Full Stack** com mais de 1 ano de experiência profissional na **FCamara**, combinando expertise em front-end com conhecimentos em back-end para criar soluções web completas e eficientes. Apaixonado por tecnologia e sempre em busca de novos desafios para expandir minhas habilidades.
 
-💻 Minhas competências incluem HTML, CSS, CSS3, React JS, responsividade e design mobile-first. Estou sempre atento às melhores práticas de design líquido para criar experiências de usuário fluidas e adaptáveis.
+💼 Atualmente focado no desenvolvimento de aplicações web modernas, trabalhando tanto no client-side quanto no server-side para entregar experiências robustas e escaláveis.
 
-⚙️ Além disso, tenho experiência em JavaScript e ando aprendendo muito sobre React, uma ferramenta poderosa para o desenvolvimento de interfaces de usuário dinâmicas e interativas.
+---
 
-📚 A busca pelo aprendizado contínuo é o que me impulsiona, e estou constantemente explorando novas tecnologias e aprimorando minhas habilidades técnicas. Sou um entusiasta do Git, utilizando-o para controle de versionamento e colaboração eficiente em projetos de equipe.
+### 🛠️ Tecnologias & Ferramentas
 
-💡 Estou animado para colaborar em projetos inovadores, contribuir com soluções criativas e aprender com profissionais experientes no campo. Se você está procurando por um desenvolvedor web dedicado e motivado para se juntar à sua equipe, adoraria conversar!
-
-Vamos nos conectar e explorar oportunidades de colaboração e crescimento juntos.
-
-Email: leandrotavares.2304@gmail.com
-<br />
-Linkedin: linkedin.com/in/leandro-tavares-554654265/
-
-<br />
-Languages
-<br />
+#### **Linguagens**
 <div>
-  <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E />
-  <img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-<br />
-front-end
-<br />
+
+#### **Front-end**
 <div>
-  <img src=https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge />
-  <!--<img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white />-->
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
-<br />
-front-end design tools
-<br />
+
+#### **Back-end**
 <div>
-  <img src=https://img.shields.io/badge/responsividade-DB7093?color=black&style=for-the-badge&logo=styled-components&logoColor=white />
-  <img src=https://img.shields.io/badge/liquid--design-DB7093?color=blue&style=for-the-badge&logo=styled-components&logoColor=white />
-  <img src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white />
-  <!--<img src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white />-->
-  <!--<img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white />-->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
+
+#### **Estilização & Design**
+<div>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/responsive%20design-1572B6?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/mobile--first-000000?style=for-the-badge&logo=smartphone&logoColor=white" />
+</div>
+
+#### **Ferramentas & Outros**
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-0096D6?style=for-the-badge&logo=scrum&logoColor=white" />
+</div>
+
+---
+
+### 💼 Experiência Profissional
+
+#### **Desenvolvedor Full Stack | FCamara**
+**2023 - Presente**
+
+- Desenvolvimento de aplicações web completas utilizando **React.js** e **Next.js** no front-end
+- Implementação de APIs RESTful com **Node.js** e **Express** no back-end
+- Criação de interfaces responsivas e mobile-first com **Styled Components** e **CSS3**
+- Colaboração em equipes ágeis utilizando metodologias **Scrum**
+- Versionamento de código com **Git/GitHub** e deploy contínuo
+- Participação em todo o ciclo de desenvolvimento - desde a concepção até a entrega
+
+#### **Freelancer & Projetos Pessoais**
+**2022 - 2023**
+- Mais de 400 horas de desenvolvimento em projetos variados
+- Desenvolvimento de soluções web customizadas para clientes
+- Aplicação de boas práticas de código e design responsivo
+
+---
+
+### 📚 Educação & Aprendizado Contínuo
+
+- **Autodidata** com foco em desenvolvimento web (2022-presente)
+- Cursos intensivos em React, Node.js e TypeScript
+- Prática constante através de projetos reais e challenges técnicos
+
+---
+
+### 📫 Conecte-se Comigo
+
+Estou sempre aberto a novas oportunidades, colaborações e conversas sobre tecnologia!
+
+- **Email:** leandrotavares.2304@gmail.com
+- **LinkedIn:** [linkedin.com/in/leandro-tavares-554654265/](https://linkedin.com/in/leandro-tavares-554654265/)
+
+---
+
+*"A busca pelo aprendizado contínuo é o que me impulsiona. Sempre em evolução, sempre codando!"*
